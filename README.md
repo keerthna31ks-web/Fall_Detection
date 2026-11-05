@@ -2,6 +2,11 @@
 
 An AI-powered video analysis system that detects human falls using **Deep Learning (ResNet18 + LSTM)** and provides prediction confidence through an interactive Streamlit dashboard.
 
+# AI-Based Fall Detection System
+
+🚀 **Live Demo:** [Click here to try the application](https://falldetection-pb9vmm487szr5zaety6uvq.streamlit.app/)
+
+
 ## 📌 Project Overview
 
 Falls can cause serious injuries, especially among elderly people. This project aims to detect potential fall events from video clips using a deep learning model.
