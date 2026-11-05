@@ -4,6 +4,6 @@ __pycache__/
 *.pyc
 .streamlit/
 .env
-models/*.pth
+
 videos/
 uploaded_video.mp4
