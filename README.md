@@ -21,7 +21,7 @@ The system analyzes video frames, extracts spatial features using ResNet18, and 
 - 📊 Displays prediction confidence
 - 📈 Visualizes Normal and Fall probabilities
 - 🚨 Safety alert when a possible fall is detected
-- 🖥️ Interactive dashboard built with Streamlit
+  
 
 ## 🛠️ Tech Stack
 
@@ -146,7 +146,7 @@ This project is developed for **educational and research purposes**. It is a pro
 
 ## 👩‍💻 Author
 
-**Keerthana S**  
+**Keerthana  K S**  
 B.Tech – Artificial Intelligence and Data Science
 
 ---
